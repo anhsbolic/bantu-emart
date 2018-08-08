@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BantuEmart</string>
+
+    <!-- DRAWER MAIN -->
+    <string name="navigation_drawer_bantu_emart">Bantu Emart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_home">Home</string>
+    <string name="navigation_drawer_search">Search</string>
+
+    <!-- MAIN HOME BOTTOM NAV -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_home_bottom_nav_home">Home</string>
+    <string name="main_home_bottom_nav_search1">Search1</string>
+    <string name="main_home_bottom_nav_search2">Search2</string>
+    <string name="main_home_bottom_nav_search3">Search3</string>
+    <string name="main_home_bottom_nav_search4">Search4</string>
+
+
+</resources>

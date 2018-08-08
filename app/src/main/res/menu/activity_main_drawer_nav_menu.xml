@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/drawerNavMenu"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawerNavHome"
+            android:icon="@drawable/nav_drawer_home"
+            android:title="@string/navigation_drawer_home" />
+        <item
+            android:id="@+id/drawerNavSearch"
+            android:icon="@drawable/nav_drawer_search"
+            android:title="@string/navigation_drawer_search" />
+
+    </group>
+</menu>

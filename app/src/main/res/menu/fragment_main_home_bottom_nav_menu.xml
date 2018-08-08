@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/mainHomeBottomNavMenu"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/mainHomeBottomNavHome"
+            android:icon="@drawable/nav_drawer_home"
+            android:title="@string/main_home_bottom_nav_home" />
+        <item
+            android:id="@+id/mainHomeBottomNavSearch1"
+            android:icon="@drawable/nav_drawer_search"
+            android:title="@string/main_home_bottom_nav_search1" />
+        <item
+            android:id="@+id/mainHomeBottomNavSearch2"
+            android:icon="@drawable/nav_drawer_search"
+            android:title="@string/main_home_bottom_nav_search2" />
+        <item
+            android:id="@+id/mainHomeBottomNavSearch3"
+            android:icon="@drawable/nav_drawer_search"
+            android:title="@string/main_home_bottom_nav_search3" />
+        <item
+            android:id="@+id/mainHomeBottomNavSearch4"
+            android:icon="@drawable/nav_drawer_search"
+            android:title="@string/main_home_bottom_nav_search4" />
+
+    </group>
+</menu>
